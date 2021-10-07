@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nein
+=======
+nici suckt garnicht :(
+>>>>>>> 28bae848689849cadf318d0e1b09cadcc76c2ed3
